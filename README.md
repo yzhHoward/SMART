@@ -1,5 +1,5 @@
 # SMART
-Official implementation of SMART: Self-supervised Missing-Aware Representation Learning for Patient Health Status Prediction
+Official implementation of SMART: Towards Pre-trained Missing-Aware Model for Patient Health Status Prediction
 
 ## Data Preparation
 - Cardiology: https://physionet.org/content/challenge-2012/1.0.0/
