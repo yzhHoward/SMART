@@ -21,3 +21,13 @@ To train the model, please run the following command:
 ```bash
 bash run.sh
 ```
+
+## Citation
+```
+@inproceedings{yu2024smart,
+  title={SMART: Towards Pre-trained Missing-Aware Model for Patient Health Status Prediction},
+  author={Yu, Zhihao and Chu, Xu and Jin, Yujie and Wang, Yasha and Zhao, Junfeng},
+  booktitle={NeurIPS 2024},
+  year={2024}
+}
+```
