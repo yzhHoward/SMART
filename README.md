@@ -22,6 +22,8 @@ To train the model, please run the following command:
 bash run.sh
 ```
 
+It is recommended to use a fixed seed when preprocessing datasets.
+
 ## Citation
 ```
 @inproceedings{yu2024smart,
